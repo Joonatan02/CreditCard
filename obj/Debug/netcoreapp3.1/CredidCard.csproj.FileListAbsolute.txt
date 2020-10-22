@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.exe
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.deps.json
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.runtimeconfig.json
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.dll
+C:\Users\opilane\source\repos\CredidCard\bin\Debug\netcoreapp3.1\CredidCard.pdb
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.AssemblyInfo.cs
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.dll
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.pdb
+C:\Users\opilane\source\repos\CredidCard\obj\Debug\netcoreapp3.1\CredidCard.genruntimeconfig.cache
